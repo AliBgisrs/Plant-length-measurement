@@ -1,6 +1,11 @@
 # Plant-length-measurement
 Calculate the average plant length in each plot based on the plot boundary and canopy cover layers 
 
+git clone <repository_url>
+
+
+
+
 Project Title
 
 [Calculate the average plant length in each plot based on the plot boundary and canopy cover layers ]
