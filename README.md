@@ -1,9 +1,6 @@
 # Plant-length-measurement
 Calculate the average plant length in each plot based on the plot boundary and canopy cover layers 
 
-git clone <repository_url>
-
-
 
 
 Project Title
@@ -71,5 +68,5 @@ Contact
 [Aliasghar.bazrafkan@ndus.edu]
 
 Additional Notes
-
+To access the tool please follow this website.
 [https://sites.google.com/ndsu.edu/floreslab/home?authuser=0]
