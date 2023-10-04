@@ -55,9 +55,6 @@ Contributing
 [Please run the script, use it and help me to improve the performance of that script using your valuable suggestions.]
 
 
-About the Author
-
-[You can add a brief section about yourself, your background, and any other relevant information.]
 
 Acknowledgments
 
